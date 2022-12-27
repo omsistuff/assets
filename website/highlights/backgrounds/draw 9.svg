@@ -1,0 +1,8 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1080" height="1920" fill="#E68A0B"/>
+<line y1="1612.5" x2="1080" y2="1612.5" stroke="#050F65" stroke-width="3"/>
+<line y1="1657.5" x2="1080" y2="1657.5" stroke="#050F65" stroke-width="3"/>
+<line y1="1703.5" x2="1080" y2="1703.5" stroke="#050F65" stroke-width="3"/>
+<line y1="1749.5" x2="1080" y2="1749.5" stroke="#050F65" stroke-width="3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M307 1426L78 1196V1656L307 1426ZM536 1426L307 1196V1426V1656L536 1426ZM765 1426L536 1196V1426V1656L765 1426ZM765 1426V1196L994 1426L765 1656V1426Z" fill="#F0F0F0"/>
+</svg>
